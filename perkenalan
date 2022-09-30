@@ -1,0 +1,13 @@
+package Praktikum1;
+
+import java.util.Scanner;
+public class Latihan1 {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+     
+        System.out.println("nama: NORKHADIJAH");
+        System.out.println("NIM: 2211016220030");
+        System.out.println("prodi: Ilmu Komputer");
+    }
+}
